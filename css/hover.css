@@ -1,0 +1,12 @@
+.zoom {transition: transform .2s; cursor: pointer;}
+.zoom:hover {transform: scale(1.1);}
+.zoomRS {transition: transform .2s; cursor: pointer; color: white;}
+.zoomRS:hover {color: #343a40; transform: scale(1.5); text-decoration: none;}
+.zoomManuals {transition: transform .2s; cursor: pointer; color: #17a2b8;}
+.zoomManuals:hover {color: #343a40; transform: scale(1.5); text-decoration: none;}
+.in-left {position:relative;animation:animateleft 0.8s }@keyframes animateleft {from{left:-300px;opacity:0} to{left:0;opacity:1}}
+.inoutloop {-webkit-animation: inoutloopAnimation 3s infinite;-moz-animation: inoutloopAnimation 3s infinite;-o-animation: inoutloopAnimation 3s infinite;animation: inoutloopAnimation 3s infinite;}
+@keyframes inoutloopAnimation {0%{ opacity:1; }50%{ opacity:0; }100%{ opacity:1; }}
+@-o-keyframes inoutloopAnimation{0%{ opacity:1; }50%{ opacity:0; }100%{ opacity:1; }}
+@-moz-keyframes inoutloopAnimation{0%{ opacity:1; }50%{ opacity:0; }100%{ opacity:1; }}
+@-webkit-keyframes inoutloopAnimation{0%{ opacity:1; }50%{ opacity:0; }100% { opacity:1; }}

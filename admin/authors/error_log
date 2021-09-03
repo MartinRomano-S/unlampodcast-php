@@ -1,0 +1,170 @@
+[15-Aug-2021 21:46:22 America/Argentina/Buenos_Aires] PHP Warning:  require_once(../dao/dao_author.php): failed to open stream: No such file or directory in /home/k57zghkhjwbw/public_html/admin/authors/get.php on line 3
+[15-Aug-2021 21:46:22 America/Argentina/Buenos_Aires] PHP Fatal error:  require_once(): Failed opening required '../dao/dao_author.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/k57zghkhjwbw/public_html/admin/authors/get.php on line 3
+[15-Aug-2021 21:54:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:55 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:54:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: news in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 23
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:26 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[15-Aug-2021 21:55:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ID in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 20
+[16-Aug-2021 20:28:01 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php:32
+Stack trace:
+#0 /home/k57zghkhjwbw/public_html/admin/authors/get.php(11): DAOAuthors->getAllInJSON()
+#1 {main}
+  thrown in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 32
+[16-Aug-2021 20:29:11 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php:32
+Stack trace:
+#0 /home/k57zghkhjwbw/public_html/admin/authors/get.php(11): DAOAuthors->getAllInJSON()
+#1 {main}
+  thrown in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 32
+[18-Aug-2021 18:20:50 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php:15
+Stack trace:
+#0 /home/k57zghkhjwbw/public_html/admin/authors/reloadAuthorsTable.php(11): DAOAuthors->getAll()
+#1 {main}
+  thrown in /home/k57zghkhjwbw/public_html/admin/dao/dao_authors.php on line 15

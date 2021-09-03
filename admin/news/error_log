@@ -1,0 +1,121 @@
+[16-Aug-2021 20:44:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 92
+[16-Aug-2021 20:44:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 92
+[16-Aug-2021 20:44:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 2 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 95
+[16-Aug-2021 20:44:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 96
+[16-Aug-2021 20:44:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 92
+[16-Aug-2021 20:44:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 2 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 95
+[16-Aug-2021 20:44:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 96
+[16-Aug-2021 20:44:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 92
+[16-Aug-2021 20:44:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 92
+[16-Aug-2021 20:44:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 2 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 95
+[16-Aug-2021 20:44:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 96
+[16-Aug-2021 20:44:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 92
+[16-Aug-2021 20:44:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 92
+[16-Aug-2021 20:44:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 2 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 95
+[16-Aug-2021 20:44:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 96
+[16-Aug-2021 20:46:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 92
+[16-Aug-2021 20:46:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 92
+[16-Aug-2021 20:46:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 92
+[17-Aug-2021 15:58:28 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 92
+[17-Aug-2021 16:26:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 92
+[17-Aug-2021 18:01:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: title-filter in /home/k57zghkhjwbw/public_html/admin/news/reloadPublicNewsTable.php on line 34
+[17-Aug-2021 18:01:19 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::prepare() expects exactly 1 parameter, 0 given in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 119
+[17-Aug-2021 18:01:19 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php:120
+Stack trace:
+#0 /home/k57zghkhjwbw/public_html/admin/news/reloadPublicNewsTable.php(34): DAONews->mostrarPublicadas('2021-8-17', NULL)
+#1 {main}
+  thrown in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 120
+[17-Aug-2021 18:03:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: title-filter in /home/k57zghkhjwbw/public_html/admin/news/reloadPublicNewsTable.php on line 34
+[17-Aug-2021 18:03:09 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::prepare() expects exactly 1 parameter, 0 given in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 119
+[17-Aug-2021 18:03:09 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php:124
+Stack trace:
+#0 /home/k57zghkhjwbw/public_html/admin/news/reloadPublicNewsTable.php(34): DAONews->mostrarPublicadas('2021-8-17', NULL)
+#1 {main}
+  thrown in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 124
+[17-Aug-2021 18:04:13 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::prepare() expects exactly 1 parameter, 0 given in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 119
+[17-Aug-2021 18:04:13 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php:124
+Stack trace:
+#0 /home/k57zghkhjwbw/public_html/admin/news/reloadPublicNewsTable.php(34): DAONews->mostrarPublicadas('2021-8-17', NULL)
+#1 {main}
+  thrown in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 124
+[17-Aug-2021 18:04:41 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php:124
+Stack trace:
+#0 /home/k57zghkhjwbw/public_html/admin/news/reloadPublicNewsTable.php(34): DAONews->mostrarPublicadas('2021-8-17', NULL)
+#1 {main}
+  thrown in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 124
+[17-Aug-2021 18:06:12 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php:124
+Stack trace:
+#0 /home/k57zghkhjwbw/public_html/admin/news/reloadPublicNewsTable.php(34): DAONews->mostrarPublicadas('2021-8-17', NULL)
+#1 {main}
+  thrown in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 124
+[17-Aug-2021 18:07:56 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php:124
+Stack trace:
+#0 /home/k57zghkhjwbw/public_html/admin/news/reloadPublicNewsTable.php(34): DAONews->mostrarPublicadas('2021-8-17', NULL)
+#1 {main}
+  thrown in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 124
+[17-Aug-2021 18:15:53 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 127
+[17-Aug-2021 18:15:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: autores in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 151
+[17-Aug-2021 18:15:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 93
+[17-Aug-2021 18:15:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 93
+[17-Aug-2021 18:16:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: autores in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 149
+[17-Aug-2021 18:16:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 93
+[17-Aug-2021 18:16:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 93
+[17-Aug-2021 18:16:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 93
+[17-Aug-2021 18:16:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 93
+[17-Aug-2021 18:27:03 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: dateFilter in /home/k57zghkhjwbw/public_html/admin/news/reloadPublicNewsTable.php on line 12
+[17-Aug-2021 18:28:59 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php:122
+Stack trace:
+#0 /home/k57zghkhjwbw/public_html/admin/news/reloadPublicNewsTable.php(38): DAONews->mostrarPublicadas('2021-8-17', 'adasda')
+#1 {main}
+  thrown in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 122
+[17-Aug-2021 18:29:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php:123
+Stack trace:
+#0 /home/k57zghkhjwbw/public_html/admin/news/reloadPublicNewsTable.php(38): DAONews->mostrarPublicadas('2021-8-17', 'sdadadas')
+#1 {main}
+  thrown in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 123
+[17-Aug-2021 18:31:51 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Cannot pass parameter 3 by reference in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php:123
+Stack trace:
+#0 /home/k57zghkhjwbw/public_html/admin/news/reloadPublicNewsTable.php(38): DAONews->mostrarPublicadas('2021-8-17', 'sdadadas')
+#1 {main}
+  thrown in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 123
+[17-Aug-2021 18:32:14 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Cannot pass parameter 3 by reference in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php:123
+Stack trace:
+#0 /home/k57zghkhjwbw/public_html/admin/news/reloadPublicNewsTable.php(38): DAONews->mostrarPublicadas('2021-8-17', 'sdadadas')
+#1 {main}
+  thrown in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 123
+[17-Aug-2021 18:40:37 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '')."' (T_CONSTANT_ENCAPSED_STRING) in /home/k57zghkhjwbw/public_html/admin/news/reloadPublicNewsTable.php on line 87
+[18-Aug-2021 16:35:53 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php:40
+Stack trace:
+#0 /home/k57zghkhjwbw/public_html/admin/news/getPublicNews.php(7): DAONews->getPublishedById('-1')
+#1 {main}
+  thrown in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 40
+[18-Aug-2021 16:36:31 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php:40
+Stack trace:
+#0 /home/k57zghkhjwbw/public_html/admin/news/getPublicNews.php(7): DAONews->getPublishedById('82')
+#1 {main}
+  thrown in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 40
+[18-Aug-2021 16:39:19 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php:40
+Stack trace:
+#0 /home/k57zghkhjwbw/public_html/admin/news/getPublicNews.php(20): DAONews->getPublishedById('82')
+#1 {main}
+  thrown in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 40
+[18-Aug-2021 16:41:13 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php:47
+Stack trace:
+#0 /home/k57zghkhjwbw/public_html/admin/news/getPublicNews.php(20): DAONews->getPublishedById('82')
+#1 {main}
+  thrown in /home/k57zghkhjwbw/public_html/admin/dao/dao_news.php on line 47
+[18-Aug-2021 16:43:40 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected 'zoom' (T_STRING), expecting ',' or ';' in /home/k57zghkhjwbw/public_html/admin/news/getPublicNews.php on line 10
+[18-Aug-2021 16:48:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pos in /home/k57zghkhjwbw/public_html/admin/news/getPublicNews.php on line 32
+[18-Aug-2021 16:48:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pos in /home/k57zghkhjwbw/public_html/admin/news/getPublicNews.php on line 62
+[18-Aug-2021 16:48:08 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pos in /home/k57zghkhjwbw/public_html/admin/news/getPublicNews.php on line 63
+[18-Aug-2021 17:09:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pos in /home/k57zghkhjwbw/public_html/admin/news/getPublicNews.php on line 62
+[18-Aug-2021 17:09:27 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pos in /home/k57zghkhjwbw/public_html/admin/news/getPublicNews.php on line 63
+[18-Aug-2021 17:09:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pos in /home/k57zghkhjwbw/public_html/admin/news/getPublicNews.php on line 60
+[18-Aug-2021 17:09:48 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pos in /home/k57zghkhjwbw/public_html/admin/news/getPublicNews.php on line 61
+[18-Aug-2021 17:22:00 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/k57zghkhjwbw/public_html/admin/news/getPublicNews.php on line 69
+[18-Aug-2021 17:43:13 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected '".);'>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/k57zghkhjwbw/public_html/admin/news/getPublicNews.php on line 53
+[18-Aug-2021 19:04:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pathToDelete in /home/k57zghkhjwbw/public_html/admin/news/deleteFile.php on line 32
+[18-Aug-2021 19:48:52 America/Argentina/Buenos_Aires] PHP Warning:  unlink(../../news/img/): Is a directory in /home/k57zghkhjwbw/public_html/admin/news/deleteFile.php on line 42
+[26-Aug-2021 15:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 2 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 95
+[26-Aug-2021 15:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in /home/k57zghkhjwbw/public_html/admin/obj/news.php on line 96
+[26-Aug-2021 15:31:56 America/Argentina/Buenos_Aires] PHP Recoverable fatal error:  Object of class News could not be converted to string in /home/k57zghkhjwbw/public_html/admin/news/getPublicNews.php on line 27
